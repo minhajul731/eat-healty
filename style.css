@@ -10,6 +10,7 @@ body {
 .top-Banner {
     margin-left: 10%;
     padding: 0 30px;
+    margin-bottom: 40px;
 }
 
 .top-banner-items {
@@ -48,4 +49,89 @@ body {
     padding: 15px 25px;
     border-radius: 100px;
     background-image: linear-gradient(rgb(251, 142, 72), rgb(255, 106, 0));
+}
+
+.about-me {
+    padding: 0 50px;
+    margin-top: 60px;
+    background-image: url("images/shapes/Frame\ 57.jpg");
+    background-repeat: no-repeat;
+    margin-bottom: 40px;
+}
+
+.aboutme-items {
+    display: flex;
+}
+
+.aboutme-text {
+    margin-top: 70px;
+    margin-left: 60px;
+}
+
+.aboutme-items p {
+    width: 70%;
+    color: #828282;
+    margin-bottom: 40px;
+}
+
+.my-racepies {
+    padding: 0 30px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.my-racepies h2 {
+    text-align: center;
+}
+
+.my-racepies-paragraph {
+    text-align: center;
+    width: 50%;
+    margin-left: 27%;
+}
+
+.racepie-items-card {
+    display: flex;
+    margin: 0% 10%;
+}
+
+.racepie-items-card img {
+    width: 400px;
+    margin: 0 10px;
+}
+
+.item-card {
+    box-shadow: 5px 5px 40px gray;
+    padding: 30px 30px 40px;
+    width: 420px;
+    border-radius: 8px;
+    margin-left: 40px;
+}
+
+.item-card p {
+    width: 400px;
+}
+
+.follwers-subscriber {
+    padding: 10px 30px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.follwers-subscriber-info {
+    box-shadow: 5px 5px 30px gray;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.followers-number {
+    display: flex;
+}
+
+.number-info {
+    margin-left: 20%;
+}
+
+.platform-info {
+    margin-left: 15%;
 }
