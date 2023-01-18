@@ -1,0 +1,51 @@
+body {
+    font-family: 'Antonio', sans-serif;
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.top-Banner {
+    margin-left: 10%;
+    padding: 0 30px;
+}
+
+.top-banner-items {
+    display: flex;
+}
+
+.top-text {
+    margin-top: 85px;
+}
+
+.top-banner-items h1 {
+    font-size: 35px;
+    line-height: 52px;
+    font-weight: 800;
+}
+
+.top-banner-items span {
+    color: rgb(251, 146, 74);
+}
+
+.top-banner-items img {
+    width: 68%;
+    margin-left: 24%;
+}
+
+.top-banner-items p {
+    color: #828282;
+    margin-bottom: 40px;
+}
+
+.food-order-button {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding: 15px 25px;
+    border-radius: 100px;
+    background-image: linear-gradient(rgb(251, 142, 72), rgb(255, 106, 0));
+}
