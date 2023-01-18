@@ -135,3 +135,17 @@ body {
 .platform-info {
     margin-left: 15%;
 }
+
+.footer-info {
+    text-align: center;
+    background-color: black;
+    padding: 30px;
+}
+
+.fresh-text {
+    color: gray !important;
+}
+
+.footer-info span {
+    color: rgb(251, 146, 74);
+}
